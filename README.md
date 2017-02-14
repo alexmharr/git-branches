@@ -6,4 +6,8 @@ These are a few of my favorite things:
 - Whiskers on kittens
 - Bright copper kettles
 - Warm woolen mittens
-- The band grouplove 
+<<<<<<< HEAD
+- The band grouplove
+=======
+- Chocolate chip cookies
+>>>>>>> experiment
